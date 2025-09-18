@@ -3,7 +3,7 @@
 
 ☕ Coffee Store Sales Dashboard
 
-📌** Project Overview**
+📌**Project Overview**
 
 This repository contains an interactive sales dashboard for a Coffee Store. The dashboard provides key business insights by analyzing sales, customer footfall, product performance, and store-level performance.
 
